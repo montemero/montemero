@@ -1,1 +1,1 @@
-<img src="https://github.com/montemero/montemero/assets/136360579/69d6f99c-a9f5-4e55-83f0-555bfbf25f10" width="200">
+<img src="https://i.imgur.com/i0mXEnJ.gif"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=montemero&theme=catppuccin-mocha&hide_border=true&locale=ru" alt="GitHub Streak" /></a> 
